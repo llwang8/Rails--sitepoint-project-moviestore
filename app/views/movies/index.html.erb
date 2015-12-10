@@ -1,0 +1,19 @@
+<h1>Listing Movies</h1>
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Release Year</th>
+    <th>Price</th>
+    <th>Description</th>
+  </tr>
+
+  <% @movies.each do |movie| %>
+      <tr>
+        <td><%= movie.title %></td>
+        <td><%= movie.release_year %></td>
+        <td><%= movie.price %></td>
+        <td><%= movie.description %></td>
+      </tr>
+  <% end %>
+</table>
