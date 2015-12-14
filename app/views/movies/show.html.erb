@@ -1,14 +1,6 @@
 <div class="large-3 small-12 column">
   <%=image_tag @movie.poster%>
 </div>
-
-<%if signed_in?%>
-    <%=link_to "", class: "button", data: {target: @cart_action, addUrl: add_to_cart_path(@movie), removeUrl: remove_from_cart_path(@movie)} do%>
-        <i class="fi-shopping-cart"></i>
-        <span><%=@cart_action%></span> Cart
-    <%end%>
-<%end%>
-
 <div class="large-9 small-12 column">
   <h3>
     <%= @movie.title %>
@@ -20,4 +12,11 @@
   <p class="label movie-label radius mb1">$ <%= @movie.price %></p>
 
   <p><%= @movie.description %></p>
+
+  <%if signed_in?%>
+      <%=link_to "", class: "button", data: {target: @cart_action, addUrl: add_to_cart_path(@movie), removeUrl: remove_from_cart_path(@movie)} do%>
+          <i class="fi-shopping-cart"></i>
+          <span><%=@cart_action%></span> Cart
+      <%end%>
+  <%end%>
 </div>
