@@ -1,6 +1,7 @@
 class MoviesController < ApplicationController
   def show
     @movies = Movie.find(params[:id])
+    @cart_action = @movie.cart_action current_user.try :id
   end
 
   def index
