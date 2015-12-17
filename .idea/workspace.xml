@@ -2,317 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e43994b-9faf-44d8-9ad5-3d47b064de4c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/foundation-icons.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/.fontcustom-data" afterPath="$PROJECT_DIR$/app/assets/fonts/.fontcustom-data" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/foundation-icons.css" afterPath="$PROJECT_DIR$/app/assets/fonts/foundation-icons.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/foundation-icons.eot" afterPath="$PROJECT_DIR$/app/assets/fonts/foundation-icons.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/foundation-icons.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/foundation-icons.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/foundation-icons.ttf" afterPath="$PROJECT_DIR$/app/assets/fonts/foundation-icons.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/foundation-icons.woff" afterPath="$PROJECT_DIR$/app/assets/fonts/foundation-icons.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/preview.html" afterPath="$PROJECT_DIR$/app/assets/fonts/preview.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-address-book.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-address-book.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-alert.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-alert.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-align-center.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-align-center.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-align-justify.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-align-justify.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-align-left.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-align-left.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-align-right.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-align-right.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-anchor.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-anchor.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-annotate.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-annotate.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-archive.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-archive.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-arrow-down.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-arrow-down.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-arrow-left.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-arrow-left.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-arrow-right.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-arrow-right.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-arrow-up.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-arrow-up.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-arrows-compress.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-arrows-compress.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-arrows-expand.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-arrows-expand.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-arrows-in.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-arrows-in.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-arrows-out.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-arrows-out.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-asl.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-asl.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-asterisk.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-asterisk.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-at-sign.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-at-sign.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-background-color.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-background-color.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-battery-empty.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-battery-empty.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-battery-full.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-battery-full.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-battery-half.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-battery-half.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-bitcoin-circle.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-bitcoin-circle.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-bitcoin.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-bitcoin.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-blind.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-blind.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-bluetooth.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-bluetooth.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-bold.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-bold.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-book-bookmark.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-book-bookmark.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-book.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-book.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-bookmark.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-bookmark.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-braille.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-braille.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-burst-new.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-burst-new.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-burst-sale.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-burst-sale.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-burst.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-burst.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-calendar.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-calendar.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-camera.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-camera.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-check.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-check.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-checkbox.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-checkbox.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-clipboard-notes.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-clipboard-notes.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-clipboard-pencil.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-clipboard-pencil.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-clipboard.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-clipboard.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-clock.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-clock.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-closed-caption.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-closed-caption.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-cloud.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-cloud.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-comment-minus.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-comment-minus.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-comment-quotes.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-comment-quotes.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-comment-video.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-comment-video.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-comment.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-comment.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-comments.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-comments.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-compass.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-compass.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-contrast.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-contrast.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-credit-card.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-credit-card.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-crop.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-crop.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-crown.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-crown.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-css3.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-css3.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-database.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-database.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-die-five.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-die-five.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-die-four.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-die-four.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-die-one.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-die-one.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-die-six.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-die-six.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-die-three.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-die-three.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-die-two.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-die-two.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-dislike.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-dislike.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-dollar-bill.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-dollar-bill.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-dollar.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-dollar.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-download.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-download.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-eject.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-eject.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-elevator.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-elevator.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-euro.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-euro.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-eye.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-eye.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-fast-forward.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-fast-forward.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-female-symbol.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-female-symbol.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-female.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-female.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-filter.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-filter.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-first-aid.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-first-aid.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-flag.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-flag.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-folder-add.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-folder-add.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-folder-lock.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-folder-lock.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-folder.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-folder.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-foot.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-foot.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-foundation.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-foundation.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-graph-bar.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-graph-bar.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-graph-horizontal.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-graph-horizontal.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-graph-pie.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-graph-pie.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-graph-trend.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-graph-trend.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-guide-dog.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-guide-dog.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-hearing-aid.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-hearing-aid.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-heart.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-heart.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-home.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-home.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-html5.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-html5.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-indent-less.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-indent-less.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-indent-more.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-indent-more.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-info.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-info.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-italic.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-italic.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-key.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-key.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-laptop.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-laptop.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-layout.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-layout.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-lightbulb.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-lightbulb.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-like.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-like.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-link.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-link.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-list-bullet.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-list-bullet.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-list-number.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-list-number.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-list-thumbnails.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-list-thumbnails.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-list.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-list.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-lock.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-lock.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-loop.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-loop.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-magnifying-glass.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-magnifying-glass.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-mail.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-mail.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-male-female.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-male-female.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-male-symbol.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-male-symbol.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-male.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-male.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-map.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-map.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-marker.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-marker.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-megaphone.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-megaphone.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-microphone.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-microphone.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-minus-circle.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-minus-circle.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-minus.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-minus.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-mobile-signal.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-mobile-signal.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-mobile.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-mobile.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-monitor.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-monitor.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-mountains.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-mountains.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-music.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-music.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-next.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-next.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-no-dogs.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-no-dogs.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-no-smoking.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-no-smoking.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-add.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-add.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-copy.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-copy.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-csv.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-csv.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-delete.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-delete.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-doc.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-doc.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-edit.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-edit.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-export-csv.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-export-csv.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-export-doc.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-export-doc.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-export-pdf.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-export-pdf.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-export.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-export.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-filled.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-filled.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-multiple.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-multiple.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-pdf.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-pdf.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-remove.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-remove.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page-search.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page-search.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-page.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-page.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-paint-bucket.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-paint-bucket.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-paperclip.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-paperclip.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-pause.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-pause.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-paw.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-paw.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-paypal.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-paypal.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-pencil.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-pencil.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-photo.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-photo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-play-circle.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-play-circle.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-play-video.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-play-video.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-play.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-play.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-plus.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-plus.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-pound.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-pound.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-power.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-power.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-previous.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-previous.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-price-tag.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-price-tag.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-pricetag-multiple.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-pricetag-multiple.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-print.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-print.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-prohibited.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-prohibited.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-projection-screen.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-projection-screen.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-puzzle.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-puzzle.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-quote.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-quote.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-record.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-record.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-refresh.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-refresh.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-results-demographics.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-results-demographics.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-results.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-results.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-rewind-ten.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-rewind-ten.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-rewind.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-rewind.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-rss.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-rss.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-safety-cone.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-safety-cone.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-save.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-save.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-share.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-share.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-sheriff-badge.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-sheriff-badge.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-shield.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-shield.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-shopping-bag.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-shopping-bag.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-shopping-cart.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-shopping-cart.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-shuffle.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-shuffle.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-skull.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-skull.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-500px.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-500px.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-adobe.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-adobe.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-amazon.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-amazon.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-android.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-android.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-apple.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-apple.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-behance.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-behance.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-bing.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-bing.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-blogger.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-blogger.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-delicious.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-delicious.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-designer-news.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-designer-news.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-deviant-art.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-deviant-art.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-digg.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-digg.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-dribbble.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-dribbble.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-drive.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-drive.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-dropbox.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-dropbox.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-evernote.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-evernote.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-facebook.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-facebook.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-flickr.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-flickr.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-forrst.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-forrst.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-foursquare.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-foursquare.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-game-center.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-game-center.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-github.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-github.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-google-plus.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-google-plus.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-hacker-news.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-hacker-news.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-hi5.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-hi5.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-instagram.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-instagram.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-joomla.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-joomla.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-lastfm.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-lastfm.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-linkedin.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-linkedin.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-medium.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-medium.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-myspace.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-myspace.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-orkut.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-orkut.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-path.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-path.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-picasa.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-picasa.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-pinterest.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-pinterest.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-rdio.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-rdio.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-reddit.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-reddit.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-skillshare.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-skillshare.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-skype.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-skype.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-smashing-mag.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-smashing-mag.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-snapchat.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-snapchat.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-spotify.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-spotify.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-squidoo.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-squidoo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-stack-overflow.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-stack-overflow.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-steam.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-steam.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-stumbleupon.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-stumbleupon.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-treehouse.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-treehouse.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-tumblr.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-tumblr.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-twitter.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-twitter.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-vimeo.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-vimeo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-windows.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-windows.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-xbox.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-xbox.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-yahoo.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-yahoo.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-yelp.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-yelp.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-youtube.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-youtube.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-zerply.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-zerply.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-social-zurb.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-social-zurb.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-sound.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-sound.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-star.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-star.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-stop.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-stop.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-strikethrough.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-strikethrough.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-subscript.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-subscript.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-superscript.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-superscript.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-tablet-landscape.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-tablet-landscape.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-tablet-portrait.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-tablet-portrait.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-target-two.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-target-two.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-target.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-target.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-telephone-accessible.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-telephone-accessible.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-telephone.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-telephone.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-text-color.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-text-color.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-thumbnails.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-thumbnails.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-ticket.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-ticket.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-torso-business.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-torso-business.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-torso-female.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-torso-female.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-torso.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-torso.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-torsos-all-female.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-torsos-all-female.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-torsos-all.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-torsos-all.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-torsos-female-male.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-torsos-female-male.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-torsos-male-female.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-torsos-male-female.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-torsos.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-torsos.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-trash.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-trash.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-trees.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-trees.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-trophy.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-trophy.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-underline.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-underline.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-universal-access.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-universal-access.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-unlink.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-unlink.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-unlock.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-unlock.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-upload-cloud.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-upload-cloud.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-upload.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-upload.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-usb.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-usb.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-video.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-video.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-volume-none.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-volume-none.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-volume-strike.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-volume-strike.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-volume.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-volume.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-web.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-web.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-wheelchair.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-wheelchair.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-widget.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-widget.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-wrench.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-wrench.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-x-circle.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-x-circle.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-x.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-x.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-yen.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-yen.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-zoom-in.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-zoom-in.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/foundation-icons/svgs/fi-zoom-out.svg" afterPath="$PROJECT_DIR$/app/assets/fonts/svgs/fi-zoom-out.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/layout.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/layout.css.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/movies.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/movies.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.rdoc" afterPath="$PROJECT_DIR$/README.rdoc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/carts.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/carts.js.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/carts_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/carts_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/development.rb" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/foundation_and_overrides.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/foundation_and_overrides.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/movie.rb" afterPath="$PROJECT_DIR$/app/models/movie.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seeds_data/movies.csv" afterPath="$PROJECT_DIR$/db/seeds_data/movies.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/braintree.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/application.yml" afterPath="$PROJECT_DIR$/config/application.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/moviestore.iml" afterPath="$PROJECT_DIR$/.idea/moviestore.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/carts/show.html.erb" afterPath="$PROJECT_DIR$/app/views/carts/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/movies/show.html.erb" afterPath="$PROJECT_DIR$/app/views/movies/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/spring" afterPath="$PROJECT_DIR$/bin/spring" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="moviestore.iws" />
@@ -334,10 +29,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.875">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="braintree.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/initializers/braintree.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5025773">
+              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/movies/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4642857">
+            <state vertical-scroll-proportion="-7.0416665">
               <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
               <folding />
             </state>
@@ -352,8 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_alerts.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/helper.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/layout.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/movies.scss" />
@@ -380,7 +103,6 @@
         <option value="$PROJECT_DIR$/test/helpers/movies_helper_test.rb" />
         <option value="$PROJECT_DIR$/app/views/registrations/new.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/sessions/new.html.erb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/movies_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/foundation_and_overrides.scss" />
@@ -403,6 +125,9 @@
         <option value="$PROJECT_DIR$/db/seeds_data/movies.csv" />
         <option value="$PROJECT_DIR$/app/views/carts/show.html.erb" />
         <option value="$PROJECT_DIR$/app/views/movies/show.html.erb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/initializers/braintree.rb" />
+        <option value="$PROJECT_DIR$/config/application.yml" />
       </list>
     </option>
   </component>
@@ -471,6 +196,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moviestore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moviestore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -498,6 +237,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="movies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moviestore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="moviestore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -552,28 +313,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moviestore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moviestore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -861,20 +600,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6520619">
-          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76804125">
-          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.077319585">
@@ -1001,14 +726,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5798969">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin/bundle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11597938">
@@ -1093,14 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="55" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44505495">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -1244,10 +953,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.875">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/movies/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4642857">
+        <state vertical-scroll-proportion="-7.0416665">
           <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/braintree.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5025773">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
           <folding />
         </state>
       </provider>
