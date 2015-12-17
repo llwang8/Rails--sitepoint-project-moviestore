@@ -1,8 +1,7 @@
 class CartsController < ApplicationController
   before_action :authenticate_user!
-
   def show
-    cart_ids = $redis.smemebers current_user_cart
+    cart_ids = $redis.smembers current_user_cart
     @cart_movies = Movie.find(cart_ids)
   end
 
@@ -17,8 +16,8 @@ class CartsController < ApplicationController
   end
 
   private
+
   def current_user_cart
     "cart#{current_user.id}"
   end
-
 end

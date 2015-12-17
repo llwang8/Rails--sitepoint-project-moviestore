@@ -1,4 +1,5 @@
-<div id="mycart" class="small-10 small-centered medium-8 large-8 column">
+<div id="mycart" class="small-10 small-centered medium-8 large-8 column text-center">
+
   <div class="p1 glassy-bg mb1 text-center radius-l1 radius-r1">
     <h4>My Cart</h4>
     <p class="mb0"> You've selected <span class="cart-count"><%=current_user.cart_count%></span> movies!</p>
@@ -22,4 +23,8 @@
         </div>
       </div>
   <%end%>
+
+  <%=link_to "Checkout", new_transaction_path, class: "button" unless current_user.get_cart_movies.blank?%>
+
+</div>
 </div>

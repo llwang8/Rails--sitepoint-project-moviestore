@@ -1,28 +1,20 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Online shopping is a form of electronic commerce which allows customers
+to directly buy products or services like e-books, software, and streaming
+media over the Internet using a web browser. This kind of shopping is a
+part of our daily lives, used by many well-known sites, such as Amazon,
+E-bay, or various streaming media/educational sites.
 
-Things you may want to cover:
+Follow tutorial from sitepoint to build an online store from scratch
+using Rails with some great tools, such as:
 
-* Ruby version
+Foundation to design responsive pages,
+Redis to store shopping cart items quickly in memory,
+Braintree to accept payments and provide premium plan subscriptions.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Based on the above, add:
+paginate function,
+advanced search function by categories,
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.

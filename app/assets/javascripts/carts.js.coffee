@@ -5,8 +5,8 @@ $(window).load ->
   $('#mycart .fi-x').click(e) ->
     e.preventDefalult()
     $this = $(this).closest('a')
-    url - $this.data('targeturl')
+    url = $this.data('targeturl')
     $.ajax url: url, type: 'put', success: (data) ->
-      $('.cart-count')html(data)
+      $('.cart-count').html(data)
       $this.closest('.cart-movie').slideUp()
 
