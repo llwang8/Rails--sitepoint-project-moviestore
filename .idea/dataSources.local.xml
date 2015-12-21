@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails moviestore: development" uuid="8c866253-20ea-49c7-877b-e32785735724">
+      <schema-pattern>moviestore_development.*</schema-pattern>
+      <default-schemas>moviestore_development.*</default-schemas>
+    </data-source>
+    <data-source name="Rails moviestore: test" uuid="b448ff2e-6ff9-4aba-a956-f6ae60dd05d4">
+      <schema-pattern>moviestore_test.*</schema-pattern>
+      <default-schemas>moviestore_test.*</default-schemas>
+    </data-source>
+    <data-source name="Rails moviestore: production" uuid="d192c698-69e8-457d-8883-95cdf27f38e0">
+      <first-sync>true</first-sync>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe7dfe5dffcdfe3dfefdff9dffedfe5dff8dfefdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
