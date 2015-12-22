@@ -49,6 +49,7 @@ class User < ActiveRecord::Base
   # purchasing methods
   def purchase_cart_movies!
     get_cart_movies.each { |movie| purchase(movie) }
+    $redis.del "cart#{id}"
   end
 
   def purchase(movie)
@@ -58,10 +59,5 @@ class User < ActiveRecord::Base
   def purchase?(movie)
     movies.include?(movie)
   end
-
-  def has_payment_info?
-    braintree_customer_id
-  end
-
 
 end

@@ -21,7 +21,6 @@ Braintree helps online businesses process credit card payments by
 providing a merchant account, payment gateway, recurring billing,
 and credit card storage.
 
-
 Add advanced search function using Ransack,
 Search movies by title
 Search movies by price ranges
