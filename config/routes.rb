@@ -1,23 +1,28 @@
 Rails.application.routes.draw do
-  get 'transactions/new'
+  #root page
+  root 'movies#index'
 
-  get 'carts/show'
-
+  #Devise user authentication
   devise_for :users, path_names: { sign_in:'login', sign_out: 'logout', sign_up:'register' }
+
+  #Movies
   resources :movies, only: [:show, :index]
 
+  #Shoppig Cart
   resources :cart, only: [:show] do
     put 'add/:movie_id', to: 'carts#add', as: :add_to
     put 'remove/:movie_id', to: 'carts#remove', as: :remove_from
   end
 
+  ##Braintree payments
+  #payment info
   resources :transactions, only: [:new, :create]
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
   # root 'welcome#index'
-  root 'movies#index'
+
 
   #devise_for :users, path_names: { sign_in: 'login', sign_out: 'logout', sign_up: 'register' }
 
