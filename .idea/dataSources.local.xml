@@ -11,6 +11,7 @@
     </data-source>
     <data-source name="Rails moviestore: production" uuid="d192c698-69e8-457d-8883-95cdf27f38e0">
       <first-sync>true</first-sync>
+      <user-name>moviestore</user-name>
       <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe7dfe5dffcdfe3dfefdff9dffedfe5dff8dfefdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
     </data-source>
   </component>
