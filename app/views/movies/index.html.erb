@@ -1,4 +1,43 @@
-<%= render "title_search_box" %>
+<%#= render "title_search_box" %>
+
+<div class="column">
+  <h5>
+    <a class="show-advanced-search">Advanced Search <span class="fi-plus"/></a>
+  </h5>
+</div>
+
+<div class="column">
+  <div class="advanced-search hide form-container glassy-bg columns">
+    <a class="close-advanced-search fi-x"></a>
+    <h4>Advanced Search</h4>
+    <%= search_form_for @search do |f| %>
+        <%= f.condition_fields do |c| %>
+            <div class="large-4 small-4 columns">
+              <%= c.attribute_fields do |a| %>
+                  <%= a.attribute_select nil, class: "radius" %>
+              <% end %>
+            </div>
+            <div class="large-4 small-4 columns">
+              <%= c.predicate_select Hash.new, class: "radius" %>
+            </div>
+            <div class="large-4 small-4 columns">
+              <%= c.value_fields do |v| %>
+                  <%= v.text_field :value, class: "radius" %>
+              <% end %>
+            </div>
+        <% end %>
+        <h5>Sort</h5>
+        <div class="column">
+          <%= f.sort_fields do |s| %>
+              <%= s.sort_select Hash.new, class: "large-5 small-4 columns mrs radius" %>
+          <% end %>
+        </div>
+        <%= f.submit "Search", class: "radius button" %>
+    <% end %>
+  </div>
+</div>
+
+
 <h4 class="column">Featured Movies</h4>
 <div class="column">
   <ul class="movies-grid no-bullet row">
