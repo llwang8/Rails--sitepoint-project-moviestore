@@ -6,7 +6,9 @@ Rails.application.routes.draw do
   devise_for :users, path_names: { sign_in:'login', sign_out: 'logout', sign_up:'register' }
 
   #Movies
-  resources :movies, only: [:show, :index]
+  resources :movies, only: [:show, :index] do
+    match :search, to: 'movies#index', via: :post, on: :collection
+  end
 
   #Shoppig Cart
   resources :cart, only: [:show] do

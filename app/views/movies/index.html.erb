@@ -10,7 +10,7 @@
   <div class="advanced-search hide form-container glassy-bg columns">
     <a class="close-advanced-search fi-x"></a>
     <h4>Advanced Search</h4>
-    <%= search_form_for @search do |f| %>
+    <%= search_form_for @search, url: search_movies_path, method: :post do |f| %>
         <%= f.condition_fields do |c| %>
             <%= render "condition_fields", f: c %>
         <% end %>
