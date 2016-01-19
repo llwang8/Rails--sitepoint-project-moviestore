@@ -10,14 +10,9 @@
   <div class="advanced-search hide form-container glassy-bg columns">
     <a class="close-advanced-search fi-x"></a>
     <h4>Advanced Search</h4>
-    <%= search_form_for @search, url: search_movies_path, method: :post do |f| %>
+    <%= search_form_for @search do |f| %>
         <%= f.condition_fields do |c| %>
-            <%= render "condition_fields", f: c %>
-        <% end %>
-        <p><%= link_to_add_fields "Add Conditions", f, :condition %></p>
-
-
-=begin            <div class="large-4 small-4 columns">
+            <div class="large-4 small-4 columns">
               <%= c.attribute_fields do |a| %>
                   <%= a.attribute_select nil, class: "radius" %>
               <% end %>
@@ -29,9 +24,7 @@
               <%= c.value_fields do |v| %>
                   <%= v.text_field :value, class: "radius" %>
               <% end %>
-=end            </div>
-
-
+            </div>
         <% end %>
         <h5>Sort</h5>
         <div class="column">
@@ -48,8 +41,8 @@
 <h4 class="column">Featured Movies</h4>
 <div class="row right padm">
   <div class="column">
-    <div class="filter-label red">
-      <%= sort_link @search, :title, "Title" %>
+    <div class="filter-label red radius">
+      <%= sort_link @search, :title %>
     </div>
     <div class="filter-label dark-golden-rod">
       <%= sort_link @search, :price, "Price" %>
@@ -59,9 +52,6 @@
     </div>
   </div>
 </div>
-
-
-<h4 class="column">Featured Movies</h4>
 <div class="column">
   <ul class="movies-grid no-bullet row">
     <% @movies.each do |movie| %>
@@ -74,9 +64,7 @@
               <div class="title">
                 <h6><%= movie.title %> <span>(<%= movie.release_year %>)</span></h6>
               </div>
-              <p class="left price label movie-label radius">
-                <%= (current_user && current_user.purchase?(movie)) ? "Purchased" : "$#{movie.price}" %>
-              </p>
+              <p class="left price label movie-label radius">$ <%= movie.price %></p>
               <%= link_to movie.imdb, class: "right" do %>
                   <%= image_tag asset_path("imdb_logo.png") %>
               <% end %>
